@@ -2,6 +2,7 @@
 import React from 'react';
 
 function CartTable({ items, handleDeleteItem }) {
+
   return (
     <table className="shopping-cart">
       <thead>
